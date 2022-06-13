@@ -3,3 +3,4 @@ Git is easy to learn
 Git is opensource and comprehensive tool
 Git is top version control system in market
 Git is very useful.
+git is easy to work with.
