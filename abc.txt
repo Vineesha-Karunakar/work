@@ -1,2 +1,3 @@
 Git is awesome tool
 Git is easy to learn
+Git is opensource and comprehensive tool
